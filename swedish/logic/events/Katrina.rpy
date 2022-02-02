@@ -10,103 +10,103 @@ translate swedish Katrina_1_label_bfc2c579:
 translate swedish Katrina_1_label_b5c500bc:
 
     # ch_Name "{i}(Oh... What a splitting headache.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Åh... Vilken jävla huvudvärk.){/i}"
 
 # game/logic/events/Katrina.rpy:9
 translate swedish Katrina_1_label_8ccc1536:
 
     # ch_Name "{i}(Damn alarm clock.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Jävla alarm klocka.){/i}"
 
 # game/logic/events/Katrina.rpy:11
 translate swedish Katrina_1_label_d2fd5b41:
 
     # ch_Name "{i}(What happened yesterday? I can't remember.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vad hände igår? Jag minns inte.){/i}"
 
 # game/logic/events/Katrina.rpy:12
 translate swedish Katrina_1_label_8a1aa597:
 
     # ch_Name "{i}(WAKE UP!){/i}"
-    ch_Name ""
+    ch_Name "{i}(VAKNA!){/i}"
 
 # game/logic/events/Katrina.rpy:14
 translate swedish Katrina_1_label_913db7e4:
 
     # ch_Name "What the hell... What am I doing here?!"
-    ch_Name ""
+    ch_Name "Vad fan... Vad gör jag här?!"
 
 # game/logic/events/Katrina.rpy:15
 translate swedish Katrina_1_label_2f6462d4:
 
     # ch_Name "I was..."
-    ch_Name ""
+    ch_Name "Jag..."
 
 # game/logic/events/Katrina.rpy:16
 translate swedish Katrina_1_label_625bc507:
 
     # ch_Name "{i}(I can't remember... But I definitely wasn't here. Right?..){/i}"
-    ch_Name ""
+    ch_Name "{i}(Jag minns inte... Men jag var verkligen inte här. Eller?..){/i}"
 
 # game/logic/events/Katrina.rpy:17
 translate swedish Katrina_1_label_18bebd9d:
 
     # ch_Name "{i}(Was it just a dream?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Var det bara en dröm?){/i}"
 
 # game/logic/events/Katrina.rpy:19
 translate swedish Katrina_1_label_e3defce8:
 
     # ch_Name "{i}(No. No. No.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nej. Nej. Nej.){/i}"
 
 # game/logic/events/Katrina.rpy:20
 translate swedish Katrina_1_label_8e629884:
 
     # ch_Name "{i}(It can't be!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Det kan inte!){/i}"
 
 # game/logic/events/Katrina.rpy:21
 translate swedish Katrina_1_label_6b707201:
 
     # ch_Name "{i}(I was invited to study. Somewhere.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Jag blev bjuden att plugga. Någonstans.){/i}"
 
 # game/logic/events/Katrina.rpy:22
 translate swedish Katrina_1_label_d948a5cb:
 
     # ch_Name "{i}(I remember exactly, there was a letter...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nu minns jag, det var ett brev...){/i}"
 
 # game/logic/events/Katrina.rpy:24
 translate swedish Katrina_1_label_06ecb25b:
 
     # ch_Name "{i}(Yes, that's right! A letter!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ja, juste! Ett brev!){/i}"
 
 # game/logic/events/Katrina.rpy:26
 translate swedish Katrina_1_label_760ac188:
 
     # ch_Name "{i}(How could I forget getting a letter?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hur kunde jag glömma ett brev?){/i}"
 
 # game/logic/events/Katrina.rpy:27
 translate swedish Katrina_1_label_25ce2f6d:
 
     # ch_Name "{i}(That almost never happens to me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Det händer nästan aldrig.){/i}"
 
 # game/logic/events/Katrina.rpy:29
 translate swedish Katrina_1_label_13dd8db6:
 
     # ch_Name "{i}(Especially since the invention of emails and mobile phones.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Speciellt sen emails uppfanns.){/i}"
 
 # game/logic/events/Katrina.rpy:30
 translate swedish Katrina_1_label_f628c877:
 
     # ch_Name "{i}(I remember now...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Jag minns nu...){/i}"
 
 # game/logic/events/Katrina.rpy:36
 translate swedish Katrina_1_label_f4b6a0fc:
