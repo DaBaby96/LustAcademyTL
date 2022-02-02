@@ -340,7 +340,7 @@ w
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden."
-    new ""
+    new "Nu vet jag att vi har kuslig ängel som bor i trädgården."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "If Leonheart wins weekly house competition we'll be able to visit local town - Dale. To win the competition I need to earn points by visiting classes, collecting books or winning in duels."
@@ -400,58 +400,60 @@ w
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah recommended that I attend both classes and then find him in the café in the evening."
-    new ""
+    new "Elijah rekommenderade att jag går på bägge lektioner sen hitta honom i cafét på kvällen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah said that sometimes he could give me some sketchy job. I think he'll have more to say if I win the house competition and visit Dale to find out what goods that place has to offer."
-    new ""
+    new "Elijah sa att han ibland kan ge mig ett lite mer oärligt jobb. Jag tror han kommer att ha mer att sähga om jag vinner veckans hustävling och besöker Dale. Då kan jag nog räkna ut vad Dale har för varor."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah asked me to get some nectar from Willow in Chompski Shop in Dale. To get to Dale, our house has to win the weekly competition."
     new "Elijah bad mig att få lite nektar från Willow i Chompski affären i Dale. För att ta mig till Dale så måste mitt hus vinna veckans hustävling."
+    
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "When I went for Elijah's package to Gordon's shop I had a small chat with Willow. She showed me her magic grove.  It seems like it is very important to her. I wonder what's inside...  She also gave me the nectar for Elijah. I should meet hit at Cordale's cafe."
-    new ""
+    new "När jag gick för att hämta Elijahs paket från Gordons affär så hade jag en konversation med Willow. Hon visade mig hennes magiska lund. Det verkar vara väldigt viktigt för henne. Jag undrar vad som finns inuti... Hon gav mig också nektar för Elijah. Jag borde träffa honom i Cordales cafe."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah was very pleased that I've helped him to get Dryad's nectar. It seems that he likes working with me. "
-    new ""
+    new "Elijah var bäldigt nöjd med att jag hjälpte honom med att få Dryads nektar. Han verkar gilla att jobba med mig."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This strange creature attacked me in Dale, but fended it off with combat bolt."
-    new ""
+    new "Denna udda varelsen anföll mig i Dale, men jag stoppade honom med en combat bolt."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Strange creature that lives on the streets of Dale asked me to get a potion from Sabrina to lift his curse. I should talk to Sabrina when I get a chance."
-    new ""
+    new "En udda varelse som bor på gatorna av Dale har frågat mig att hämta en trolldryck från Sabrinas för att häva hans förbannelse. Jag borde prata med Sabrina när jag har tid.
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Sabrina was interested by the story about Giant who asked for help. She agreed to give me the potion he asked for if I promise to tell her all the details of our next encounter with that Thing. Seems fair."
-    new ""
+    new "Sabrina var intresserad av historian om jätten som önskade om hjälp. Hon gick med på att ge mig en trolldryck som Jätten vill ha, men bara ifall jag berättar allt om min nästa träff med honom. Verkar rättvist."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Gordon told me he's always ready to pay a $ for each fish I catch for him. He's odd, but I think he's a fair trader."
-    new ""
+    new "Gordon sa att han alltid är redo att betala för varje fisk jag fångar åt honom. Han är udda, men jag tror att han är genuin."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It looks like fishing can be pretty profitable. I can go fishing whenever the shop is open and Gordon will always pay me $1 for each fish."
-    new ""
+    new "Det ser ut som att fiskande kan vara väldigt lönsamt. Jag kan fiska varje gång affären är öppen, Gordon kommer alltid betala mig $1 för varje fisk."
+    
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I should catch up with Haley. She's probably studying already."
-    new ""
+    new "Jag borde snacka med Haley. Hon pluugar nog redan."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley will be waiting for me in her room in the evening. I hope it's a date!"
-    new ""
+    new "Haley kommer vänta på mig i hennes rum på kvällen. Jag hoppas att det är en date!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley is getting ready for Victoria's private classes, I gotta find out what progress she's made. 'll try to talk to her in the morning before the lecture."
-    new ""
+    new "Haley gör sig redo för Victorias privata lektion, jag måste ta reda på om vad för framsteg hon tagit. Jag ska försöka prata med henne på morgonen innan lektionen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley's too wrapped up in her studies. I don't want to intrude. I'll let her make a move on her own."
-    new ""
+    new "Haley är för upptagen med sina studier. Jag vill inte inkräkta. Jag låter henne göra ett steg på egen hand."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley said there was something strange in her textbook and called me over to look at it myself. We're meeting in the evening, in her room."
@@ -459,59 +461,59 @@ w
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Together, Haley and I tried to unwrap the mystery about E.Bloom's notes in her book. Elijah seemed disturbed when we asked him questions. I need to meet Haley before classes to find out what's her plan."
-    new ""
+    new "Haley sa att det var något konstigt i hennes lärobok och kallade fram mig för att titta på den själv. Vi träffas på kvällen, i hennes rum."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We were alone in the courtyard, and Haley showed that she doesn't mind getting closer to me. She also asked me to spy on Amelie until I find a secret room in the library."
-    new ""
+    new "Vi var ensamma på gården och Haley visade att hon inte har något emot att komma närmare mig. Hon bad mig också att spionera på Amelie tills jag hittar ett hemligt rum på biblioteket."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Hours of spying were not wasted for nothing! I saw Amelie disappearing and coming back where there were no exits. I have to tell Haley about this, and she might know what to do."
-    new ""
+    new "Timmar av spioneri slösades inte bort för ingenting! Jag såg Amelie försvinna och komma tillbaka där det inte fanns några utgångar. Jag måste berätta för Haley om det här, och hon kanske vet vad hon ska göra."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley needs some time to examine the coins she found in the library and find out how to get to the secret room."
-    new ""
+    new "Haley behöver lite tid för att undersöka mynten hon hittade i biblioteket och ta reda på hur man tar sig till det hemliga rummet."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley and I broke into the secret room and borrowed files that might contain information about E.Bloom. Haley will look into them and get back to me in the morning."
-    new ""
+    new "Haley och jag bröt oss in i det hemliga rummet och lånade filer som kan innehålla information om E.Bloom. Haley kommer att titta på dem och återkomma till mig på morgonen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley discovered that Elijah's brother and Hans were lovers and were trying to escape from here. To replicate their ritual and open the portal, we'll need Samantha's help. I'll talk to her in the morning."
-    new ""
+    new "Haley upptäckte att Elijahs bror och Hans var älskare och försökte fly härifrån. För att replikera deras ritual och öppna portalen behöver vi Samanthas hjälp. Jag ska prata med henne i morgon."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Things are going as well as can be expected!"
-    new ""
+    new "Jag gjorde överenskommelser med Samantha och hon kommer att hjälpa oss med ritualen. Vi ska äntligen lösa mysteriet med E.Bloom. Haley och jag träffade också. Det går så bra som man kan förvänta sig!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've heard that Jacob usually spends his evenings at the hall. Should I talk to him about something?"
-    new ""
+    new "Jag har hört att Jacob brukar spendera sina kvällar i hallen. Ska jag prata med honom om något?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "To enter the Dueling Club I need to learn combat spells. In order to do so, I have to visit more Victoria's lessons."
-    new ""
+    new "För att komma in i Duellklubben måste jag lära mig stridsbesvärjelser. För att göra det måste jag besöka fler Victorias lektioner."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I was accepted into the dueling club, so I can come to the Academy lobby every night and take part in duels."
-    new ""
+    new "Jag blev antagen till duellklubben, så jag kan komma till Academy-lobbyn varje kväll och delta i dueller."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Jill is the nice ginger girl, who owns a massage saloon at Dale. I can get a massage at Whistley's Spa for $75 when i'm in Dale. Pricey, but I think it's worth it."
-    new ""
+    new "Jill är den trevliga ginger tjejen, som äger en massagesalong på Dale. Jag kan få en massage på Whistley's Spa för $75 när jag är i Dale. Dyrt, men jag tycker att det är värt det."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "My massage master got so turned on, that she could not finish the process. That was strange. I've overheard her arguing with someone. I think she got pranked by that person. I guess I'll have to have another massage to get closer to the truth."
-    new ""
+    new "Min massagemästare blev så tänd att hon inte kunde avsluta processen. Det var konstigt. Jag har hört henne bråka med någon. Jag tror att hon blev prankad av den personen. Jag antar att jag måste få en massage till för att komma närmare sanningen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "So, I don't get it. Is she Jill or Faith, and why does she act so strange? First, she seemed shy, but then she literally grabbed my cock! I'll need to have another massage to understand what's going on."
-    new ""
+    new "Så jag fattar det inte. Är hon Jill eller Faith, och varför beter hon sig så konstigt? Först verkade hon blyg, men sedan tog hon bokstavligen tag i min kuk! Jag måste få en massage till för att förstå vad som händer."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Even after all the craziness I've seen at this spa, I can't believe I was able to talk the masseuse into jerking me off. Maybe this is just the beginning of our intimate massage sessions. I wonder what she'll agree to next time?"
-    new ""
+    new "Även efter alla galenskaper jag har sett på detta spa, kan jag inte fatta att jag kunde övertala massören att rycka till mig. Kanske är detta bara början på våra intima massagesessioner. Jag undrar vad hon kommer att gå med på nästa gång?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've got a feeling that that forest wasn't the last time I've met her. But right now, I can only guess."
